@@ -1,5 +1,6 @@
 Architectural-GraphML
 =====================
+This project is licensed under the terms of the AGPLv3.
 
 This plug-in supports an architectural interpretation of graphs.
 It provides
